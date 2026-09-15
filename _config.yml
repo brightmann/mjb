@@ -14,7 +14,7 @@ language: zh-CN
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://maojun.xyz/blog
-root: /blog/
+root: /
 permalink: :year/:month/:name.html
 permalink_defaults:
 pretty_urls:
